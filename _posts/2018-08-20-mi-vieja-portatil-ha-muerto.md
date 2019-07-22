@@ -1,11 +1,11 @@
-```
 ---
 layout: post
 title: Mi vieja portátil ha muerto
 categories: [hardware, miscelánea]
 tags: [personal]
+permalink: /mi-vieja-portatil-ha-muerto/
 ---
-```
+
 
 Recientemente comentaba en mis perfiles de redes sociales con mucha  tristeza la  "muerte" de mi computadora portátil HP Envy Sleekbook 14  que llevaba conmigo 6 años. Me la habían regalado en el año 2012,  comprada recertificada grado A, venía con un Core i3 de 2da generación,  4GB de RAM, 500GB de disco, gráfica Intel HD 3000 y una tarjeta WiFi  cuya característica más notable era no funcionar con controladores  libres.
 

@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Año nuevo, blog nuevo
 categories: [miscelánea]
 tags: [personal]
+permalink: /ano-nuevo-blog-nuevo/
 ---
-```
 
 ¡Bienvenidos a mi nuevo blog! Sí, otra vez.  Retomando uno de mis objetivos incumplidos para 2018, el de publicar  periódicamente en el blog, decidí hacer una suerte de borrón y cuenta  nueva para 2019 y lanzar mi blog nuevamente.
 

@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Cómo sincronizo la configuración de mis PCs
 categories: [utilidades]
 tags: [scripts, gnulinux]
+permalink: /como-sincronizo-la-configuracion-de-mis-pcs/
 ---
-```
 
 Somos muchos los que poseemos al menos dos computadoras y las usamos en nuestro día a día. En mi caso se trata de la computadora de escritorio que tengo en casa y una [portátil ThinkPad X230]() que uso en la oficina y en movilidad. Cuando esto ocurre es posible que nos interese mantener sincronizados archivos, atajos de teclado, configuraciones de aplicaciones o inclusive habrá quien sincronice el fondo de pantalla.
 

@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Reemplazar una cadena o texto en varios archivos
 categories: [utilidades]
 tags: [scripts]
+permalink: /reemplazar-cadena-varios-archivos/
 ---
-```
 
 Recientemente estuve reordenando archivos y  una vez finalizado esto me encontré con la necesidad de modificar varios  de estos archivos para apuntar algunas rutas a su nueva ubicación.
 

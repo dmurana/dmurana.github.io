@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Notificar el estado de batería en GNU/Linux
 categories: [gnulinux, utilidades]
 tags: [scripts]
+permalink: /script-notificar-estado-de-bateria/
 ---
-```
 
 Recientemente cambié de trabajo y con ello  también la computadora portátil que uso para trabajar. Esto implica que  además de la instalación inicial durante las primeras horas o días uno  va instalando el software necesario, configurando el sistema a gusto y  necesidad, y entendiendo las particularidades del dispositivo en  cuestión.
 

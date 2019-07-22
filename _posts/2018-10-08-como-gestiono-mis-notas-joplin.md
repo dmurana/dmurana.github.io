@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Gestionar notas con Joplin
 categories: [utilidades]
 tags: [gnulinux, productividad]
+permalink: /como-gestiono-mis-notas-joplin/
 ---
-```
 
 [Joplin](https://joplin.cozic.net/)  es una aplicación libre y multiplataforma para gestionar notas que  incorporé hace poco más de un año a mi flujo de trabajo. Antes había  usado Evernote, Google Keep, Tomboy, etc. con más o menos éxito, pero he  de decir que no terminé de adaptarme a ningún software libre de los que  probé, y los privativos que además implicaban guardar mi información en  servidores de terceros los descarté. Hasta que llegó Joplin mi gestión  de notas fue bastante errática y sin rumbo.
 

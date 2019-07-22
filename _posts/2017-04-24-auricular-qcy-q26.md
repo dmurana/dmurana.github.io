@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Notificar el estado de batería en GNU/Linux
 categories: [hardware]
 tags: [gadgets]
+permalink: /auricular-qcy-q26/
 ---
-```
 
 Desde hace algún tiempo tengo un auricular de la marca [QCY](http://www.qcybluetooth.com/), especializada  en auriculares (en su mayoría inalámbricos), posee diseños variados,  orientados a múltiples propósitos y de una calidad más que aceptable. Al  menos los dos modelos que he probado hasta ahora me han parecido de una  relación calidad-precio estupenda.
 

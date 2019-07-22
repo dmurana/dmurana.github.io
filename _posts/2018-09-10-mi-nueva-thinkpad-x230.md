@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Mi nueva Thinkpad X230
 categories: [hardware, miscelánea]
 tags: [personal]
+permalink: /mi-nueva-thinkpad-x230/
 ---
-```
 
 Hace poco tiempo y de forma algo inesperada se murió la computadora portátil que me acompañó por casi 6 años, por lo que de pronto me vi en la búsqueda de un reemplazo, condicionado por la necesidad de disponer de un equipo rápidamente y con un presupuesto bastante bajo. Como les ocurrirá a muchos, para mi no es algo trivial adquirir un dispositivo que me acompañará día a día y suelo dedicar bastante tiempo en investigar previo a tomar una decisión. La idea de esta publicación es contarles parte de este proceso y mi experiencia con la [Lenovo ThinkPad X230](https://www.lenovo.com/us/en/laptops/thinkpad/x-series/x230/) que adquirí.
 

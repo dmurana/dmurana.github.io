@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: ¿Por qué usar un generador de contenido estático?
 categories: [desarrollo]
 tags: [web]
+permalink: /usar-generador-contenido-estatico/
 ---
-```
 
 Para crear un blog existen varias plataformas y herramientas, quizá la más común sea el CMS (Sistema de Gestión de Contenidos) [Wordpress](https://wordpress.org) el cual estaba usando hasta hace muy poco. Tenía mi propia instalación de Wordpress alojada en el hosting que ofrece [TresDe](http://tresde.org) y funcionaba muy bien, no tengo quejas sobre él. Wordpress es software libre, posee mucha documentación, temas y plugins, y puede adaptarse a necesidades muy variadas; para funcionar solamente necesita un servidor web con PHP y una base de datos MySQL o MariaDB, que para mi blog no necesita ser demasiado grande.
 

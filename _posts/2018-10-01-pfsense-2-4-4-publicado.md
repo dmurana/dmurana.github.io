@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Publicado pfSense 2.4.4 con interesantes novedades
 categories: [redes]
 tags: [pfsense]
+permalink: /pfsense-2-4-4-publicado/
 ---
-```
 
 Desde el 24 de septiembre tenemos disponible la versión 2.4.4 de [pfSense](https://www.pfsense.org/),  la distribución FreeBSD que nos proporciona un completo firewall/router  libre sobre la cual ya he comentado. pfSense es una excelente solución  para firewall y UTM corporativos, basada en FreeBSD, el firewall pf y  muchos proyectos de sofware libre.
 

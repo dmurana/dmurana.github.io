@@ -1,11 +1,10 @@
-```
 ---
 layout: post
 title: Mi nueva Thinkpad X230
 categories: [gnulinux]
 tags: [gnulinux, debian]
+permalink: /flatpak-y-su-instalacion-en-debian-y-pureos/
 ---
-```
 
 [**Flatpak**](https://www.flatpak.org/)  es un conjunto de herramientas de desarrollo de software y gestión de  paquetes que nos permite empaquetar aplicaciones para GNU/Linux con  todas las dependencias incluídas y ejecutarlas como procesos  aislados. Es impulsado desde hace algún tiempo por Red Hat y GNOME entre  otros, y es una alternativa a otros sistemas como Snappy (de Canonical)  o AppImage.
 
