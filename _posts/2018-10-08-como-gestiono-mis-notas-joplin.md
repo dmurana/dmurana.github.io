@@ -12,7 +12,7 @@ En Joplin las notas se pueden tomar en texto plano o en [formato Markdown](https
 
 Así se ve la interfaz principal:
 
-![Joplin](assets/joplin_interfaz_principal.jpg)
+![Joplin](/img/joplin_interfaz_principal.jpg)
 
 #### Algunas características destacables
 
@@ -40,13 +40,13 @@ Para configurar la sincronización con Nextcloud he creado una carpeta llamada *
 
 Luego  para configurarlo en Joplin es necesario disponer de la URL WebDAV que  podemos obtener en la app Archivos de Nextcloud con un clic en el ícono  de Configuración en la esquina inferior izquierda:
 
-![Joplin](assets/joplin_sync_nextcloud.jpg)
+![Joplin](/img/joplin_sync_nextcloud.jpg)
 
  Al final de esta URL le agregaremos el nombre de la carpeta, quedando `https://SERVIDOR/remote.php/webdav/CARPETA_DE_NOTAS` .
 
 Con esta información, en Joplin iremos al menú *Herramientas -> Opciones generales* y completaremos las opciones de sincronización:
 
-![Joplin](assets/joplin_sync_config.jpg)
+![Joplin](/img/joplin_sync_config.jpg)
 
 Y  con esto tenemos resuelta la sincronización de las notas, bastará con  usar la misma configuración en las aplicaciones móviles y otros  escritorios.
 

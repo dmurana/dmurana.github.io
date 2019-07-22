@@ -28,7 +28,7 @@ Cuando me  había decidido a adquirir una ThinkPad X220 de segunda mano en una  
 
 ### Mi ThinkPad X230
 
-![Mi ThinkPad X230](assets/mi_thinkpad_x230.jpg)
+![Mi ThinkPad X230](/img/mi_thinkpad_x230.jpg)
 
 Adquirí mi *nueva* computadora portátil por menos de 300 dólares en un estado muy bueno,  el único detalle estético es una marca en una esquina no apreciable a  simple vista, la duración de la batería se aproxima a las 2 horas con  una carga completa y de las especificaciones técnicas no tengo mucho que  agregar, le agregué un módulo de RAM para obtener 8GB en total, le  cambié el SSD de 160GB por un SSHD de 500+8GB (para la partición /home) y  le agregué un SSD de 32GB (para el sistema operativo), funciona de  maravillas para los usos comentados.
 

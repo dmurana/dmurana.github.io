@@ -13,7 +13,7 @@ Recuerdo que ni bien llegué a casa con la portátil en mano  la desarmé y le a
 
 Hasta  los 2 años de su adquisición fue mi única computadora, recibiendo  cargas de trabajo a veces exhaustivas y estando muchas horas al día  encendidas, siempre respondió bien. Tanto que, luego de 6 años  continuaba dando un buen rendimiento, por lo que hace poco tiempo,  eligiendo ignorar que ya se encontraba al final de su vida útil, le  había hecho algunas mejoras y por tan solo 150 dólares volví a usar mi  computadora para trabajar como el primer día. Con un poco de cuidado,  prescindiendo de nuevas funcionalidades que quizás no usemos nunca y  ayudados por el sistema operativo GNU/Linux los dispositivos pueden  acompañarnos durante mucho tiempo, creo que es una forma interesante de  combatir la obsolesencia programada.
 
-![Mi vieja portátil](assets/mi-vieja-portatil-muerto.jpg)
+![Mi vieja portátil](/img/mi-vieja-portatil-muerto.jpg)
 
 Pero  contrario a lo que preveía, dejó de funcionar por un golpe y no por el  uso. Fueron casi 7 años. Una infortunada caída desde 30cm de altura  dentro de una mochila terminó con su vida útil. Luego de muchas pruebas e  intentos no volvió a encender.
 

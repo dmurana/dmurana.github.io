@@ -38,4 +38,4 @@ Basta con ejecutarlo una vez ya que los comandos `while` y `sleep`  se encargan 
 
 En el escritorio KDE Plasma se ven así: 
 
-![Notificación del estado de la batería](assets/battery_notify.png)
+![Notificación del estado de la batería](/img/battery_notify.png)
