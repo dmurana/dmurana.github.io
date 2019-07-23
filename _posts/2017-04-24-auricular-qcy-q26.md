@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notificar el estado de batería en GNU/Linux
+title: Auricular QCY Q26
 categories: [hardware]
 tags: [gadgets]
 permalink: /auricular-qcy-q26/

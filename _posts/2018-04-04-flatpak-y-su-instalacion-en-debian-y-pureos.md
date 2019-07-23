@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi nueva Thinkpad X230
+title: Flatpak y su instalación en Debian y PureOS
 categories: [gnulinux]
 tags: [gnulinux, debian]
 permalink: /flatpak-y-su-instalacion-en-debian-y-pureos/
